@@ -17,4 +17,4 @@ This is the repo of GEE code to generate NDVI, IMERG and Snow cover timeseries o
 - Example in Kalimantan Islands
 ![Kalimantan IGBP types](img/Kalimantan-landtypes.png)
 
-
+## And More.. 
